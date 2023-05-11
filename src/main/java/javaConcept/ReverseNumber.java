@@ -13,7 +13,7 @@ public class ReverseNumber {
 			i=i%10;
 		}
 		System.out.println(rev);
-		System.out.println("Command Is ready");
+		System.out.println("izhar testing the push command");
 
 	}
 
